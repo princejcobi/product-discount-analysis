@@ -25,7 +25,7 @@ To analyze patterns in discounts, product ratings, and category performance and 
 
 ## 📁 Files Included
 
-- `product_analysis_project.xlsx`: Main Excel workbook with all pivot tables, charts, and formulas
+- [`product_analysis_project.xlsx`](./product_analysis_project.xlsx): Main Excel workbook with all pivot tables and formulas
 
 ---
 
