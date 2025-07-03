@@ -26,7 +26,7 @@ To analyze patterns in discounts, product ratings, and category performance and 
 ## 📁 Files Included
 
 - [`product_analysis_project.xlsx`](./product_analysis_project.xlsx): Main Excel workbook with all pivot tables and formulas
-- ![Scatter Chart – Rating vs Discount](charts/discount_vs_rating_chart.png)
+
 
 ---
 
@@ -55,6 +55,7 @@ To analyze patterns in discounts, product ratings, and category performance and 
 
 A scatter chart was created to examine the correlation between **discount percentage** and **rounded product rating**. The chart showed that:
 > 🔹 There is no strong correlation between high discounts and higher product ratings.
+> - ![Scatter Chart – Rating vs Discount](charts/discount_vs_rating_chart.png)
 
 ---
 
