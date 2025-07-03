@@ -56,7 +56,7 @@ To analyze patterns in discounts, product ratings, and category performance and 
 ### 📊 Q11: Discount % vs Rating
 
 This scatter chart shows that higher discounts do not strongly influence product ratings.
-![Discount vs Rating](charts/discount_vs_rating_chart.png)
+![Chart](discount_vs_rating_chart.png)
 
 A scatter chart was created to examine the correlation between **discount percentage** and **rounded product rating**. The chart showed that:
 > 🔹 There is no strong correlation between high discounts and higher product ratings.
